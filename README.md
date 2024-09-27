@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucien Purnawarman
 ==========================================================================================================================================
 
-Inspiring to be a Front-End Developer
+Aspiring to be a Front-End Developer
 -------------------------------------
 
 Hello, my full name is I Gusti Agung Ngurah Lucien Yudistira Purnawarman. You can call me Lucien. I am 19 years old. And currently studying in Universitas Udayana.
