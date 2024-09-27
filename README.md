@@ -8,7 +8,7 @@ Hello, my full name is I Gusti Agung Ngurah Lucien Yudistira Purnawarman. You ca
 
 * 🌍  I'm based in Bali, Indonesia
 * ✉️  You can contact me at [lucienthewizz@gmail.com](mailto:lucienthewizz@gmail.com)
-* 🧠  I'm learning Front-End Developer
+* 🧠  Currently learning Front-End Developer
 
 ### Skills
 
