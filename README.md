@@ -1,17 +1,19 @@
 # About Me
 
-👋 Hey everyone, I'm Lucien
+👋 Hey everyone, I'm I Gusti Agung Ngurah Lucien Yudistira Purnawarman (you can call me Lucien)
 
 ---
 
 **About Me**
 
-- Based in Bali, Indonesia
-- Student at Universitas Udayana
-- Email: lucienthewizz@gmail.com
-- Twitter: @lucienthewizz
-- LinkedIn: Lucien Purnawarman
-- GitHub: Lucienthewizz
+<p>
+  <b>📍 Bali, Indonesia</b><br>
+  <b>🎓 Student at Universitas Udayana</b><br>
+  <b>✉️ Email:</b> <a href="mailto:lucienthewizz@gmail.com">lucienthewizz@gmail.com</a><br>
+  <b>🐦 Twitter:</b> <a href="https://twitter.com/lucienthewizz">@lucienthewizz</a><br>
+  <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/lucien-purnawarman">Lucien Purnawarman</a><br>
+  <b>👨‍💻 GitHub:</b> <a href="https://github.com/Lucienthewizz">Lucienthewizz</a>
+</p>
 
 ---
 
