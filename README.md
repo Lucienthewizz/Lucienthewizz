@@ -2,14 +2,16 @@
 
 👋 Hey everyone, I'm Lucien
 
-**Fullstack Web Developer**
+---
 
-<p>
-  <a href="https://github.com/Lucienthewizz"><img src="https://img.shields.io/badge/GitHub-Lucienthewizz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lucien-purnawarman"><img src="https://img.shields.io/badge/LinkedIn-Lucien%20Purnawarman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lucienthewizz@gmail.com"><img src="https://img.shields.io/badge/Gmail-lucienthewizz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/lucienthewizz"><img src="https://img.shields.io/badge/Twitter-@lucienthewizz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+**About Me**
+
+- Based in Bali, Indonesia
+- Student at Universitas Udayana
+- Email: lucienthewizz@gmail.com
+- Twitter: @lucienthewizz
+- LinkedIn: Lucien Purnawarman
+- GitHub: Lucienthewizz
 
 ---
 
@@ -32,4 +34,4 @@
 
 ---
 
-I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications. Well-versed in front-end development. Good at PHP (Laravel), ReactJS, NextJS, and CSS for web applications.
+I'm a developer with a passion for building beautiful, functional, and scalable web applications. Well-versed in front-end development. Good at PHP (Laravel), ReactJS, NextJS, and CSS for web applications.
