@@ -1,6 +1,6 @@
 <!-- Banner / Hero Section -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" alt="Lucien waving" />
+  <img src="https://raw.githubusercontent.com/Lucienthewizz/Lucienthewizz/main/lucien-portofolio/public/vite.svg" width="120" alt="Lucien Logo" />
 </p>
 
 <h2 align="center">Lucien Purnawarman</h2>
@@ -20,7 +20,17 @@ IT student at Universitas Udayana, Bali. Passionate about building modern, user-
 
 **Skills**
 
-HTML • CSS • JavaScript • React • Tailwind • Bootstrap • Node.js • Figma • Git
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="32" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="32" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="32" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="32" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="32" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="32" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="32" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="32" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="32" alt="Git" />
+</p>
 
 ---
 
@@ -33,4 +43,8 @@ HTML • CSS • JavaScript • React • Tailwind • Bootstrap • Node.js •
 
 **Connect**
 
-[Discord](https://discord.com/users/ziul1156) • [GitHub](https://github.com/Lucienthewizz) • [LinkedIn](https://www.linkedin.com/in/lucien-purnawarman)
+<p align="center">
+  <a href="https://discord.com/users/ziul1156"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" /></a>
+  <a href="https://github.com/Lucienthewizz"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" /></a>
+  <a href="https://www.linkedin.com/in/lucien-purnawarman"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" /></a>
+</p>
